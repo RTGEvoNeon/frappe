@@ -1,7 +1,7 @@
 app_name = "library_managment"
 app_title = "Library Managment"
 app_publisher = "ilya"
-app_description = "sysytem"
+app_description = "system"
 app_email = "mat@mail.ru"
 app_license = "mit"
 # required_apps = []

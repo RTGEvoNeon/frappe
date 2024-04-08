@@ -3,7 +3,7 @@ name = "library_managment"
 authors = [
     { name = "ilya", email = "mat@mail.ru"}
 ]
-description = "sysytem"
+description = "system"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]
